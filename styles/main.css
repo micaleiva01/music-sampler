@@ -1,0 +1,21 @@
+body {
+  color: #fff;
+  background-image: linear-gradient(to bottom right, #B500E6, #000766);
+  font-family: 'Times New Roman','Georgia', serif;
+}
+
+h1 {
+  color: #fff;
+}
+
+footer {
+  color: #fff;
+}
+
+a {
+    color: #AADBF2;
+}
+a:hover {
+    color: #f4cdb7;
+    text-decoration: none;
+}
